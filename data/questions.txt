@@ -1,0 +1,45 @@
+1. How many casual leave days are employees entitled to?
+Expected: 12 casual leave days.
+Source: leave_policy.txt
+
+2. How many sick leave days are employees entitled to?
+Expected: 15 sick leave days.
+Source: leave_policy.txt
+
+3. Can unused casual leave be carried forward?
+Expected: No, unused casual leave cannot be carried forward.
+Source: leave_policy.txt
+
+4. How many days in advance should casual leave normally be requested?
+Expected: One day in advance.
+Source: leave_policy.txt
+
+5. What is the maximum meal reimbursement per day?
+Expected: Rs. 500 per day.
+Source: reimbursement_policy.txt
+
+6. Within how many days must reimbursement claims be submitted?
+Expected: Within 30 days of the expense.
+Source: reimbursement_policy.txt
+
+7. Are receipts required for reimbursement?
+Expected: Yes, original or valid digital receipts are required.
+Source: reimbursement_policy.txt
+
+8. What are the standard working hours?
+Expected: 9:00 AM to 6:00 PM, Monday to Friday.
+Source: working_hours_policy.txt
+
+9. How long is the lunch break?
+Expected: One hour.
+Source: working_hours_policy.txt
+
+10. Should remote employees remain available during standard working hours?
+Expected: Yes.
+Source: working_hours_policy.txt
+
+11. How many work-from-home days are allowed per month?
+Expected: The supplied policies do not contain related information.
+
+12. What is the annual bonus percentage for employees?
+Expected: The supplied policies do not contain related information.
